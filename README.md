@@ -4,6 +4,14 @@ In this python project, we will build a grocery store management application. It
 Front end: UI is written in HTML/CSS/Javascript/Bootstrap
 Backend: Python and Flask
 Database: mysql
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/09cb193f-6fb7-4e6d-b746-be7d91bbf24d" />
+
+
+<img width="836" height="525" alt="image" src="https://github.com/user-attachments/assets/45155ea2-0b01-40a7-be63-86949686bd43" />
+
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/511114e7-056f-4e5f-9a04-285ee8f86bd3" />
+
+
 
 
 Installation Instructions
